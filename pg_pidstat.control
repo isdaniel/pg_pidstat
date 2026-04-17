@@ -1,0 +1,6 @@
+comment = 'Per-backend CPU, memory, I/O, and context switch monitoring for PostgreSQL'
+default_version = '@CARGO_VERSION@'
+module_pathname = 'pg_pidstat'
+relocatable = false
+superuser = true
+trusted = false
